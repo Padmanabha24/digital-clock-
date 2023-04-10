@@ -1,0 +1,42 @@
+.box{
+    margin: 50px;
+    padding-top:10px;
+    display:flex;
+    justify-content: space-evenly;
+    border: 5px solid #31b99e;
+    width: 500px;
+    height:100px;
+    border-radius: 10px;
+    background-color: grey;
+    color:white;
+    
+  }
+  h3{
+    position: absolute;
+    top:23px;
+    left: 70px;
+     color:white;  
+    background-color: grey;
+    border: 2px solid #31b99e;
+    width:105px;
+  }
+  .watch{
+    margin-top: 20px;
+    display: flex;
+  justify-content: space-evenly;
+  }
+ #h {
+  padding:10px;
+  /* padding-top: -10px; */
+ }
+ #m{
+  padding:10px;
+ }
+ #s{
+  padding:10px;
+ }
+.text{
+  margin: 10px;
+  position: relative;
+  top: -15px;
+}
